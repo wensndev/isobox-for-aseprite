@@ -3,8 +3,9 @@
 Bu proje, Aseprite içinde kullanmak üzere isometrik kutular çizmeye yarayan bir Lua betiğidir.
 
 ## Kurulum
-1. `isometric-box.lua` dosyasını Aseprite komut dosyaları (Scripts) klasörüne ekleyin.  
-2. Aseprite'i yeniden başlatın veya betiği komut dosyaları menüsünden yükleyin.
+1. [Dosyayı indirin.](https://github.com/wensndev/isobox-for-aseprite/archive/refs/tags/v1.zip)
+2. `isometric-box.lua` dosyasını Aseprite komut dosyaları (Scripts) klasörüne ekleyin.  
+3. Aseprite'i yeniden başlatın veya betiği komut dosyaları menüsünden yükleyin.
 
 ## Kullanım
 1. Bir sprite (tuval) açın ve komut dosyasını çalıştırın.  
