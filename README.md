@@ -1,19 +1,22 @@
 # [WenSN] Isometric Box
+---
+I modified the `darkwark/isobox-for-aseprite` project because it lacked proper settings for 4px cornered isometric drawing.
+---
 
-Bu proje, Aseprite içinde kullanmak üzere isometrik kutular çizmeye yarayan bir Lua betiğidir.
+This project is a Lua script designed to draw isometric boxes within Aseprite.
 
-## Kurulum
-1. [Dosyayı indirin.](https://github.com/wensndev/isobox-for-aseprite/archive/refs/tags/v1.zip)
-2. `isometric-box.lua` dosyasını Aseprite komut dosyaları (Scripts) klasörüne ekleyin.  
-3. Aseprite'i yeniden başlatın veya betiği komut dosyaları menüsünden yükleyin.
+## Installation
+1. [Download file.](https://github.com/wensndev/isobox-for-aseprite/archive/refs/tags/v1.zip)
+2. Add the `isometric-box.lua` file to the Aseprite scripts folder.  
+3. Restart Aseprite or load the script from the Scripts menu.
 
-## Kullanım
-1. Bir sprite (tuval) açın ve komut dosyasını çalıştırın.  
-2. İlgili iletişim kutusunda kutu boyutlarını (Left, Right, Height) ayarlayın.  
-3. Renk seçeneklerini belirleyin (Stroke, Top, Left, Right).  
-4. “Add Box” butonuna tıklayarak katmanınıza isometrik kutu ekleyin.
+## Usage
+1. Open a sprite (canvas) and run the script.  
+2. In the dialog box, adjust the box dimensions (Left, Right, Height).  
+3. Set the color options (Stroke, Top, Left, Right).  
+4. Click the “Add Box” button to add the isometric box to your layer.
 
-## Özellikler
+## Features
 - 4px “corner”
-- Kolayca özelleştirilebilir üst, sol ve sağ renkler  
-- Yeni katman ve piksel doldurma işlemi otomatik olarak yapılır
+- Easily customizable top, left, and right colors  
+- Automatic new layer creation and pixel filling process
