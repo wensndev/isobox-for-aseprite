@@ -7,7 +7,7 @@ This project is a Lua script designed to draw isometric boxes within Aseprite.
 
 ## Installation
 1. [Download file.](https://github.com/wensndev/isobox-for-aseprite/archive/refs/tags/v1.zip)
-2. Add the `isometric-box.lua` file to the Aseprite scripts folder.  
+2. Add the `[WenSN] isometric-box.lua` file to the Aseprite scripts folder.  
 3. Restart Aseprite or load the script from the Scripts menu.
 
 ## Usage
